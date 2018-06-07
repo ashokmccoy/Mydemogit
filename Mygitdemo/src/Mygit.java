@@ -4,7 +4,7 @@ public class Mygit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		System.out.println("karthik myccoy.....");
 		        double n1, n2;
 		        String operation;
 		        Scanner scannerObject = new Scanner(System.in);
